@@ -1,5 +1,5 @@
 {
   "name": "Élan Français",
   "description": "Advanced French learning companion for DELF B2 and DALF C1 mastery, featuring AI-powered conversation, writing feedback, and curated reading materials.",
-  "requestFramePermissions": ["microphone"]
+  "requestFramePermissions": ["microphone", "autoplay"]
 }
